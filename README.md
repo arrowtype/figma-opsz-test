@@ -2,7 +2,7 @@
 
 It seems that Figma’s newly released Variable Fonts support (though great overall) doesn’t yet work on variable fonts which have only an optical size axis.
 
-![video of the issue](result/screencap-2022_05_11.mp4)
+https://user-images.githubusercontent.com/45946693/167951864-1239a78d-f014-4168-8be5-61a148584b7f.mp4
 
 ## Test Approach
 
