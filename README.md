@@ -2,6 +2,12 @@
 
 It seems that Figma’s newly released Variable Fonts support (though great overall) doesn’t yet work on variable fonts which have only an optical size axis.
 
+The video below shows four things:
+1. Fraunces, with multiple axes, working as expected
+2. Fraunces, with only an Optical Size axis, not working as expected
+3. Roboto Flex, with multiple axes, working as expected
+4. Roboto Flex, with only an Optical Size axis, not working as expected
+
 https://user-images.githubusercontent.com/45946693/167951864-1239a78d-f014-4168-8be5-61a148584b7f.mp4
 
 ## Test Approach
